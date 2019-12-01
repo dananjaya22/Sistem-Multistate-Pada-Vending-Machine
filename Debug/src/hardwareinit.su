@@ -1,0 +1,2 @@
+hardwareinit.c:5:6:SystemClock_Config	88	static
+hardwareinit.c:41:6:MX_GPIO_Init	56	static

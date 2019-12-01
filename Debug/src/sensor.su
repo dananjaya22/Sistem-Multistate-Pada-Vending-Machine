@@ -1,0 +1,4 @@
+sensor.c:13:9:prosesDetected	16	static
+sensor.c:27:9:batalDetected	16	static
+sensor.c:41:9:Detected500	16	static
+sensor.c:55:9:Detected1000	16	static

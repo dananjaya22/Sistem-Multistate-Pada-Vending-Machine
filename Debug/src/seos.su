@@ -1,0 +1,2 @@
+seos.c:8:6:TIM4_IRQHandler	8	static
+seos.c:22:6:SCH_init	24	static

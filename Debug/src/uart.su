@@ -1,0 +1,4 @@
+uart.c:38:1:__io_putchar	16	static
+uart.c:49:6:MX_USART2_UART_Init	32	static
+uart.c:74:6:print_UART2	16	static
+uart.c:78:6:UART_Print	16	static
